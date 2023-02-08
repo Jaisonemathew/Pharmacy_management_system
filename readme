@@ -1,0 +1,12 @@
+#Login Credentials
+Admin Panel :
+
+username: admin
+password: admin
+
+Staff/Salesman:
+
+username:staff
+password:staff
+
+run npm install mysql@2.16.0 --save to remove depecration warning
